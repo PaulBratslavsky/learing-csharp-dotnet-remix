@@ -1,0 +1,11 @@
+/Users/paulbratslavsky/dotnet/Reactivities/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/paulbratslavsky/dotnet/Reactivities/Domain/bin/Debug/net7.0/Domain.dll
+/Users/paulbratslavsky/dotnet/Reactivities/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/paulbratslavsky/dotnet/Reactivities/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulbratslavsky/dotnet/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/paulbratslavsky/dotnet/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/paulbratslavsky/dotnet/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/paulbratslavsky/dotnet/Reactivities/Domain/obj/Debug/net7.0/Domain.dll
+/Users/paulbratslavsky/dotnet/Reactivities/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/paulbratslavsky/dotnet/Reactivities/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/paulbratslavsky/dotnet/Reactivities/Domain/obj/Debug/net7.0/ref/Domain.dll
